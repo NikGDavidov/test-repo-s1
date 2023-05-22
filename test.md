@@ -1,2 +1,2 @@
 Just for test
-git status
+Some changes in remote server
